@@ -1,7 +1,7 @@
 # DisPOS -  Distributed  POS  consensus
-**Stanislav Takt, [2018-2021]
-https://www.linkedin.com/in/taktaev
-https://github.com/stanta   **
+- Stanislav Takt, [2018-2021]
+- https://www.linkedin.com/in/taktaev
+- https://github.com/stanta 
 
 ## Decentralized Money -> Distributed Money
 Bitcoin, Ethereum and blockchains with a single consensus is just the first step towards the decentralization of money. These are still very centralized solutions. The next step, it will become obvious, every company and even every person will start issuing their own tokens - IOUs[1]. This means that the number of blockchain users will be measured in hundreds of millions, and the number of transactions in the billions. It is obvious that existing blockchains with centralized consensus will not be able to withstand such a load without centralization, as we already see in the example of blockchains like Near, Solana, Binancechain, which destroys an idea of ​​​​decentralization. It is logical to assume that there will be a massive increase in the number of "local" blockchains - both geographically (blockchains of a concrete city, village) and socially - each community will have its own blockchain.
