@@ -31,7 +31,7 @@ If a transaction needs to be signed for more than the current collateral, the no
 
 ### Interchain  Level
 To implement the exchange of transactions between blockchains, you need to enter the chain-id in the address structure, similar to the email domain.
-![DistPOS Schema](https://github.com/stanta/dispos/blob/main/DisPOS.jpg?raw=true)
+![DistPOS Schema](https://github.com/DistPOS/distpos/blob/main/DisPOS.jpg?raw=true)
 #### Step 1 (look pict)
 When forming an outgoing transaction to an external chain, the transaction is sent to the mempool of the “local” chain node with the addition of the addressable chain-id.
 #### Step 2
